@@ -26,12 +26,15 @@ You can install the required Python packages using the following command:
 Here are some example images processed by the program:
 
 *Original Image*
+
 ![2010-09-10-home](https://github.com/DaadfroGG/ocr-batch-cleaner/assets/101118957/5c9d82dc-591e-46e1-bde0-00b33e3fa4a6)
 
 *Text Mask*
+
 ![2010-09-10-home](https://github.com/DaadfroGG/ocr-batch-cleaner/assets/101118957/ab3df494-3e2a-40df-82bc-cca59d2a9e0a)
 
 *Masked Image*
+
 ![2010-09-10-home](https://github.com/DaadfroGG/ocr-batch-cleaner/assets/101118957/7b2564f6-b075-4f0c-83a3-fc6f3080fe23)
 
 ## Customization
